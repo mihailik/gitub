@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es3",
+    "jsx": "react",
+    "sourceMap": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "inlineSources": true
+  }
+}
